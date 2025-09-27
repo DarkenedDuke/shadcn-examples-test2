@@ -22,6 +22,7 @@ export function SiteHeader() {
             <Logo />
             <span className="text-muted-foreground mt-0.5 text-[10px] tracking-widest uppercase select-none">
               BSIT-4B
+              BSIT-3RD YEAR
             </span>
           </Link>
         </div>
